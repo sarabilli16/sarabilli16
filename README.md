@@ -1,16 +1,15 @@
-### Hi there 👋
+boas vindas ao meu perfil ❤
 
-<!--
-**sarabilli16/sarabilli16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sara correa rodrigues 
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- você pode entrar em contato comigo por email
+
+- saracorreiarodrigues10@gmail.com
+- 
+- saracorrearodrigues77@gmail.com
+
+![](https://media1.tenor.com/m/uRwfdUygAcwAAAAd/maria-alice.gif)
